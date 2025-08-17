@@ -15,7 +15,7 @@ Thematic roles: agent, patient, benefactive
 - while English might use a preposition to convey the meaning of "in," another language might use a noun case for example
 - a target language may demand information from theme space (such as gender with French) that isn't encoded by the source language, but we're ignoring this for now by just translating English to English
 
-adjectives and stuff can't be modeled with solely a thematic model but that's w/e
+adjectives and certain noun information (like number or gender) can't be modeled with solely a thematic model but that's w/e. can expand how noun phrases are encoded
 
 `encode_theme_from_english_to_file();`
 
