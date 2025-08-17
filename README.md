@@ -1,6 +1,6 @@
 # LinguisticsZoneYay
 
-goal: convert English to and back from a generic "theme" language
+goal: convert English to and back from a generic "theme" language (using opencl, find header + library download)
 
 Thematic roles: agent, patient, benefactive
 
