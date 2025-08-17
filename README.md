@@ -7,7 +7,7 @@ Thematic roles: agent, patient, benefactive
 > [!NOTE]
 > While the determination of which thematic roles exist is contentious, I'm not looking for an objective set of thematic roles, just ones that function well enough for this program
 
-thematic roles relate noun phrases to predicates, and the way that relation (and the predicate) can be realized differs from language to language
+**Thematic roles** relate noun phrases to predicates, and the way that relation (and predicate) are realized differs from language to language.
 - each language has its own grammar which it uses to convert a "universal meaning" to a language specific structure
 - predicates can be verbs, adjectives, whatever (I am loyal to the crown, `[loyal][to?:crown]`)
 - whereas English converts `[eat][agent:1st person][patient:fish]` to "I ate a fish," just copying the structure word-for-word into Spanish doesn't work because it has a different grammar.
