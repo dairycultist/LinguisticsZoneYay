@@ -1,6 +1,6 @@
 # LinguisticsZoneYay
 
-goal: convert English to and back from a generic "theme" language (using opencl, find header + library download)
+goal: Create a system that converts simple (specifically English) sentences to and back from a generic "theme" language (using OpenCL, find header + library download). Gonna need to compile a dictionary of predicates and their thematic arguments.
 
 Thematic roles: agent, patient, benefactive
 
