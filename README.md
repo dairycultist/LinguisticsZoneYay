@@ -16,3 +16,7 @@ Thematic roles: agent, patient, benefactive
 - a target language may demand information from theme space (such as gender with French) that isn't encoded by the source language, but we're ignoring this for now by just translating English to English
 
 adjectives and stuff can't be modeled with solely a thematic model but that's w/e
+
+`encode_theme_from_english_to_file();`
+
+`decode_theme_from_file_to_english();`
